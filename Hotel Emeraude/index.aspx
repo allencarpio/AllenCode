@@ -62,7 +62,7 @@
                  <img src="img/Logo.png" alt="Logo" width="12%" height="12%"> </p>
 
 
-                <h1 class="text-center"> <span class="Headers">Catanduanes Supermart</span> </h1>
+                <h1 class="text-center"> <span class="Headers">Emeraude Hotel</span> </h1>
                 <p class="text-center">
 
 
